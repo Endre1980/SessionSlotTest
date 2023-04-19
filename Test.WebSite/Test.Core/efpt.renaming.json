@@ -1,0 +1,18 @@
+﻿[
+   {
+      "SchemaName": "test",
+      "Tables": [
+         {
+            "Columns": [
+               {
+                  "Name": "session_slot_guid",
+                  "NewName": "SessionSlotGuid"
+               }
+            ],
+            "Name": "session_slot_data",
+            "NewName": "SessionSlotData"
+         }
+      ],
+      "UseSchemaName": false
+   }
+]

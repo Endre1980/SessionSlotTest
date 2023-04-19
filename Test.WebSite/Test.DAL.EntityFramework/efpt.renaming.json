@@ -1,0 +1,38 @@
+﻿[
+   {
+      "SchemaName": "pms",
+      "Tables": [
+         {
+            "Columns": [ ],
+            "Name": "consultation_cases",
+            "NewName": "ConsultationCase"
+         },
+         {
+            "Columns": [ ],
+            "Name": "forwarded_cases",
+            "NewName": "ForwardedCase"
+         },
+         {
+            "Columns": [ ],
+            "Name": "important_cases",
+            "NewName": "ImportantCase"
+         },
+         {
+            "Columns": [
+               {
+                  "Name": "session_slot_guid",
+                  "NewName": "SessionSlotGuidNavigation"
+               }
+            ],
+            "Name": "session_slot_data",
+            "NewName": "SessionSlotData"
+         },
+         {
+            "Columns": [ ],
+            "Name": "user_folder_cases",
+            "NewName": "UserFolderCase"
+         }
+      ],
+      "UseSchemaName": false
+   }
+]

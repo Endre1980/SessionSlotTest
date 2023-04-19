@@ -1,0 +1,14 @@
+{
+  "Classes": [
+    {
+      "Name": "SessionSlotData",
+      "Properties": [
+        {
+          "Name": "SessionSlotGu",
+          "NewName": "SessionSlotGuidNavigation",
+          "AlternateName": "SessionSlotGuid"
+        }
+      ]
+    }
+  ]
+}

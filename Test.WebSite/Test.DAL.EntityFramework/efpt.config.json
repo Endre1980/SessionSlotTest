@@ -1,0 +1,47 @@
+﻿{
+   "CodeGenerationMode": 2,
+   "ContextClassName": "TestContext",
+   "ContextNamespace": "",
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "ModelNamespace": "Model",
+   "OutputContextPath": "DAL",
+   "OutputPath": null,
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "Test",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 1,
+   "Tables": [
+      {
+         "Name": "test.session_slot_data",
+         "ObjectType": 0
+      },
+      {
+         "Name": "test.session_slots",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": ".test",
+   "UncountableWords": [
+      "Data"
+   ],
+   "UseBoolPropertiesWithoutDefaultSql": true,
+   "UseDatabaseNames": false,
+   "UseDateOnlyTimeOnly": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseLegacyPluralizer": true,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false,
+   "UseT4": false
+}

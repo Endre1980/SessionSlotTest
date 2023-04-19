@@ -1,0 +1,2 @@
+powershell -Command "(gc .\Test.DAL.EntityFramework\DAL\TestContext.cs) -replace 'SessionSlotGuidLinkNavigation', 'SessionSlotGuid' | Out-File -encoding UTF8 .\Test.DAL.EntityFramework\DAL\TestContext.cs"
+powershell -Command "(gc .\Test.DAL.EntityFramework\DAL\TestContext.cs) -replace 'SessionSlotGuidLinkNavigationNavigation', 'SessionSlotGuidNavigation' | Out-File -encoding UTF8 .\Test.DAL.EntityFramework\DAL\TestContext.cs"

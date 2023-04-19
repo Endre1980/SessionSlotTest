@@ -1,0 +1,15 @@
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\bin\Debug\net6.0\Test.DAL.EntityFramework.deps.json
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\bin\Debug\net6.0\Test.DAL.EntityFramework.dll
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\bin\Debug\net6.0\Test.DAL.EntityFramework.pdb
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\bin\Debug\net6.0\Test.Core.dll
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\bin\Debug\net6.0\Test.Core.pdb
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\obj\Debug\net6.0\Test.DAL.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\obj\Debug\net6.0\Test.DAL.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\obj\Debug\net6.0\Test.DAL.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\obj\Debug\net6.0\Test.DAL.EntityFramework.AssemblyInfo.cs
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\obj\Debug\net6.0\Test.DAL.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\obj\Debug\net6.0\Test.DAL.EntityFramework.csproj.CopyComplete
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\obj\Debug\net6.0\Test.DAL.EntityFramework.dll
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\obj\Debug\net6.0\refint\Test.DAL.EntityFramework.dll
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\obj\Debug\net6.0\Test.DAL.EntityFramework.pdb
+C:\Users\endre.budai.3DHISTECH\source\repos\Test.WebSite\Test.DAL.EntityFramework\obj\Debug\net6.0\ref\Test.DAL.EntityFramework.dll
